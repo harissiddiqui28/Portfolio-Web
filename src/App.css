@@ -1,0 +1,99 @@
+.secTwo{
+
+
+background-color: #19191B;
+background-repeat: no-repeat;
+margin-left: 400px;
+}
+.CardPng {
+    background-image: url(./assets/images/Icon.png);
+    background-repeat: no-repeat;
+    background-color: #19191B;
+}
+.CardPng1 {
+    background-image: url(./assets/images/Second.png );
+    background-repeat: no-repeat;
+    background-color: #19191B;
+}
+.CardPng2 {
+    background-image: url(./assets/images/Third.png );
+    background-repeat: no-repeat;
+    background-color: #19191B;
+}
+.CardPng6 {
+    background-image: url(./assets/images/Fourth.png );
+    background-repeat: no-repeat;
+    background-color: #19191B;
+}
+.CardPng4 {
+    background-image: url(./assets/images/Fifth.png );
+    background-repeat: no-repeat;
+    background-color: #19191B;
+}
+.CardPng5 {
+    background-image: url(./assets/images/Sixth.png );
+    background-repeat: no-repeat;
+    background-color: #19191B;
+}
+
+
+
+.Hero{
+    background: #19191B;
+}
+
+.Video{
+    background-color: black;
+}
+.Overview{
+    background-color: #19191B;
+}
+
+.CardContainer{
+    background-color: #19191B; 
+}
+.Grid {
+    background-color: #19191B; 
+}
+.Foot{
+    background-color: #19191B; 
+}
+.ImgOne{
+  background-image: url(./assets/images/PicOne.png);
+    background-repeat: no-repeat;
+    padding: 200px;
+   
+  
+}
+.ImgOne1{
+    background-image: url(./assets/images/PicTwo.png);
+      background-repeat: no-repeat;
+      padding: 200px;
+      margin-left: 50px;
+      margin-right: 50px;
+     
+  }
+  .ImgOne2{
+    background-image: url(./assets/images/PicThirds.png);
+      background-repeat: no-repeat;
+      padding: 200px;
+      margin-left: 120px;
+      
+  }
+
+.Video{
+background-color: #19191B !important;
+}
+
+
+
+
+
+
+
+
+.ServerBtn{
+    background-color: blueviolet;
+    color: #fff;
+    border: blueviolet;
+}
