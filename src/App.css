@@ -1,9 +1,12 @@
+
+body{
+    background-color: #19191B;
+}
+
 .secTwo{
-
-
 background-color: #19191B;
 background-repeat: no-repeat;
-margin-left: 400px;
+
 }
 .CardPng {
     background-image: url(./assets/images/Icon.png);
@@ -35,15 +38,8 @@ margin-left: 400px;
     background-repeat: no-repeat;
     background-color: #19191B;
 }
-
-
-
 .Hero{
     background: #19191B;
-}
-
-.Video{
-    background-color: black;
 }
 .Overview{
     background-color: #19191B;
@@ -58,40 +54,6 @@ margin-left: 400px;
 .Foot{
     background-color: #19191B; 
 }
-.ImgOne{
-  background-image: url(./assets/images/PicOne.png);
-    background-repeat: no-repeat;
-    padding: 200px;
-   
-  
-}
-.ImgOne1{
-    background-image: url(./assets/images/PicTwo.png);
-      background-repeat: no-repeat;
-      padding: 200px;
-      margin-left: 50px;
-      margin-right: 50px;
-     
-  }
-  .ImgOne2{
-    background-image: url(./assets/images/PicThirds.png);
-      background-repeat: no-repeat;
-      padding: 200px;
-      margin-left: 120px;
-      
-  }
-
-.Video{
-background-color: #19191B !important;
-}
-
-
-
-
-
-
-
-
 .ServerBtn{
     background-color: blueviolet;
     color: #fff;

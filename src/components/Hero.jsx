@@ -5,8 +5,8 @@ function Hero(){
 return(
 
     <>
-   <div className="bg-black Hero text-white p-4 pl-12  flex">
-    <div className="lg:w-1/2 pr-4 p-4  secOne mt-12 mb-12">
+   <div className="bg-black Hero text-white p-4  justify-center flex container mx-auto flex-col  sm:flex-row">
+    <div className="lg:w-1/2 pr-4 p-4 text-center sm:text-left  secOne mt-12 mb-12">
         <h1 className="text-white text-4xl font-extrabold leading-snug ">Build Your </h1>
         <h1 className="text-white text-4xl font-extrabold leading-snug ">Awesome </h1>
         <h1 className="text-white text-4xl font-extrabold leading-snug "> Platform</h1>
@@ -17,10 +17,16 @@ return(
          our services.</p>
         <button className="bg-white text-black  ServerBtn mt-8 px-4 py-2 rounded-full">Our Services</button>
     </div>
-    <div className="lg:w-1/2 mt-4 flex-1p-4 mt-12 mb-12 secTwo">
+    <div className="lg:w-1/2 mt-4 flex-1p-4 mt-12 mb-12 flex justify-end secTwo">
        <img src={heroimg} alt="" />
     </div>
 </div>
+
+
+
+
+
+
 
 
     </>
