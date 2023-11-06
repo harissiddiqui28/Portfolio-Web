@@ -11,12 +11,15 @@ import Overviewtwo from './components/Overviewtwo'
 import VideoPlayer from './components/Video'
 
 
+
 import Content from './components/Content'
+
 
 function App() {
  
   return (
   <>
+
   <Navbar/>
   <Hero/>
   <Content/>
